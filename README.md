@@ -2,7 +2,7 @@
   
   ### `mridul` /mriːdʊl/
   
-  <sup><i>17M • solving problems, occasionally creating them • full stack dev</i></sup>
+  <sup><i>18M • solving problems, occasionally creating them • full stack dev</i></sup>
   
 </div>
 
